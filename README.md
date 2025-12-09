@@ -1,3 +1,5 @@
+<img width="2229" height="1198" alt="image" src="https://github.com/user-attachments/assets/173f33c3-a9cc-4f03-8974-f15d00459c3b" />
+
 #  Netflix Content Recommender + Insights Dashboard
 
 
@@ -87,6 +89,8 @@ pip install -r requirements.txt
 # run the app
 
 streamlit run app\streamlit_app.py
-
+```
+# DEMO LINK
+https://netflix-recommender-dashboard-25lgy8dfjinkawowjetmzz.streamlit.app/
 
 
