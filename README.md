@@ -1,4 +1,4 @@
-\# Netflix Content Recommender + Insights Dashboard
+#  Netflix Content Recommender + Insights Dashboard
 
 
 
@@ -8,7 +8,7 @@ and get content-based recommendations using genres and descriptions.
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -22,7 +22,7 @@ Download `titles.csv` from Kaggle and place it in the `data/` folder:
 
 
 
-\## Features
+## Features
 
 
 
