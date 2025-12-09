@@ -46,13 +46,13 @@ Download `titles.csv` from Kaggle and place it in the `data/` folder:
 
 
 
-\## How to Run
+## How to Run
 
 
 
 ```bash
 
-\# clone the repo
+# clone the repo
 
 git clone <your-repo-url>
 
@@ -60,7 +60,7 @@ cd netflix-recommender-dashboard
 
 
 
-\# create and activate virtualenv
+# create and activate virtualenv
 
 python -m venv venv
 
@@ -72,19 +72,19 @@ venv\\Scripts\\activate.bat    # CMD
 
 
 
-\# install dependencies
+# install dependencies
 
 pip install -r requirements.txt
 
 
 
-\# add dataset
+# add dataset
 
-\# place titles.csv into data/titles.csv
+# place titles.csv into data/titles.csv
 
 
 
-\# run the app
+# run the app
 
 streamlit run app\\streamlit\_app.py
 
