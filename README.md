@@ -64,11 +64,11 @@ cd netflix-recommender-dashboard
 
 python -m venv venv
 
-.\\venv\\Scripts\\Activate.ps1  # PowerShell
+.\venv\Scripts\Activate.ps1  # PowerShell
 
-\# or
+# or
 
-venv\\Scripts\\activate.bat    # CMD
+venv\Scripts\activate.bat    # CMD
 
 
 
@@ -86,7 +86,7 @@ pip install -r requirements.txt
 
 # run the app
 
-streamlit run app\\streamlit\_app.py
+streamlit run app\streamlit_app.py
 
 
 
